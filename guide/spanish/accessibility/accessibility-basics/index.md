@@ -196,3 +196,5 @@ En los artículos posteriores, abordaré varios temas más de primera clase. Una
 *   ¿Hay alguna manera de escribir contenido que solo vean los lectores de pantalla y otras tecnologías de asistencia?
 *   ¿Cómo hago accesibles los componentes personalizados de JavaScript?
 *   ¿Qué herramientas hay, además de las pruebas de usuario inclusivas, que pueden usarse para desarrollar la experiencia más sólida y accesible para el grupo más grande de usuarios?
+
+my change
